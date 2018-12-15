@@ -68,4 +68,6 @@ for(var i = 0; i < studentArray.length; i++){
 var elementToPrintTo = document.querySelector("#student-list");
 elementToPrintTo.innerHTML = studentHTMLString;
 
+// blah blah blah extra comments
+
 
